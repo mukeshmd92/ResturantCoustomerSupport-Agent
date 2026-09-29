@@ -41,7 +41,7 @@ FastAPI Layer (app/main.py)
 * Virtual Environment
 
 ### 1. Clone & Setup Environment
-```bash
+bash
 git clone <your-repository-url>
 cd resturant-agent
 
